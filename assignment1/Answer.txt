@@ -1,0 +1,11 @@
+Q1
+By generating ssh key grom cmd and paste it  on github ssh key section
+command- ssh keygen
+
+Q2
+git init
+git add .
+git commit -m "any message"
+git push
+git push --setupstream
+yes
