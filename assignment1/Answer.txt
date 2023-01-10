@@ -16,3 +16,6 @@ Static - The website having only front end is called stactic websites
 
 Dynamic - The website contains front end , databases , and backens are called 
 dynamic websites
+
+Q5
+First initialise git with command
