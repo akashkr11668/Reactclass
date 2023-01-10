@@ -9,3 +9,10 @@ git commit -m "any message"
 git push
 git push --setupstream
 yes
+
+Q4
+
+Static - The website having only front end is called stactic websites
+
+Dynamic - The website contains front end , databases , and backens are called 
+dynamic websites
