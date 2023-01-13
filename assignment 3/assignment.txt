@@ -1,0 +1,41 @@
+Q1
+Node. js uses the “Single Threaded Event Loop” architecture to handle multiple concurrent clients. 
+Node. js Processing Model is based on the JavaScript event-based model along with the JavaScript callback mechanism
+
+Q2
+Synchronous (or sync) execution usually refers to code executing in sequence
+
+Blocking refers to operations that block further execution until that operation finishes
+ while non-blocking refers to code that doesn’t block execution.
+
+  Javascript “runtime” is single-threaded. It executes the javascript program.
+
+Q3
+
+ let arr = [{name: "Orange", value: 1}, {name: "Grapes", value: 2},
+      {name: "Apple", value: 3}];
+      document.getElementById("idPrint").innerHTML = JSON.stringify(arr,
+      null, 4);
+
+Q4
+
+To define JSON, we can say it is a text-based, lightweight, and human-readable format for data exchange between clients and servers. 
+JSON is derived from JavaScript and bears a close resemblance to JavaScript objects, but it is not dependent on JavaScript. 
+JSON is language-independent, and support for the JSON data format is available in all popular languages
+
+Q5
+
+let numbers = [0, 1 , 2, 3, 10, 20, 30 ];
+numbers.sort();
+numbers.pop();
+numbers.push();
+console.log(numbers);
+
+Q6
+
+becasue its not a global var its work only on the scope of a function
+
+Q7
+
+primitive means which is already available in the given language
+ The Primitive Data types in JavaScript include Number, String, Boolean, Undefined, Null and Symbol.
